@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml:20:1-43:12
+INJECTED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml:20:1-43:12
+INJECTED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml:20:1-43:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\3ed7eb6afcf40bbc4f79a30a78cb1e45\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\b1a433036e6f175b9699d91e51954f78\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\b89916d4a9e145b96c935a6392dea008\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\76b1fbfaa350f09f986511d700b584bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\90973e7297f60db81286368fae783322\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0b40478d9e68788e7b71490fc5b56fbd\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\61c52f4cd0b5a8a3c18a784e9df94cb6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\69bdfc4573a1ce4fadd3cc38bd17e9bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\eba4bd47f367c47bb1d60e36e9a96775\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\dfc5d2decb8a2257ca95a47b066a7c3d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\26236f80b6586969424a8175e018df65\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\3773fa956c6dc0db493e566193f3659a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\fdc4d461ca8e2a8d83eb977301c0c7ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\8ef3d5548ff099fe5d816189b2c9d361\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\f65350ec79bedf7dbad9a0d97d1e9e06\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\ab91113f080991d1efaf4a225ee73c31\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml:20:1-43:12
+INJECTED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml:20:1-43:12
+	package
+		ADDED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml:21:5-53
+	android:versionName
+		ADDED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml:23:5-30
+		INJECTED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml:20:11-69
+	android:versionCode
+		ADDED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml:22:5-28
+		INJECTED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml:27:5-40:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0b40478d9e68788e7b71490fc5b56fbd\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0b40478d9e68788e7b71490fc5b56fbd\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml:29:9-45
+	android:allowBackup
+		ADDED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml:27:18-44
+	android:theme
+		ADDED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml:30:9-40
+activity#com.example.android.basicgesturedetect.MainActivity
+ADDED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml:32:9-39:20
+	android:label
+		ADDED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml:33:19-51
+	android:uiOptions
+		ADDED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml:34:19-63
+	android:name
+		ADDED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml:32:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml:37:27-74
+uses-sdk
+INJECTED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\3ed7eb6afcf40bbc4f79a30a78cb1e45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\3ed7eb6afcf40bbc4f79a30a78cb1e45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\b1a433036e6f175b9699d91e51954f78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\b1a433036e6f175b9699d91e51954f78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\b89916d4a9e145b96c935a6392dea008\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\b89916d4a9e145b96c935a6392dea008\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\76b1fbfaa350f09f986511d700b584bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\76b1fbfaa350f09f986511d700b584bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\90973e7297f60db81286368fae783322\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\90973e7297f60db81286368fae783322\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0b40478d9e68788e7b71490fc5b56fbd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0b40478d9e68788e7b71490fc5b56fbd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\61c52f4cd0b5a8a3c18a784e9df94cb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\61c52f4cd0b5a8a3c18a784e9df94cb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\69bdfc4573a1ce4fadd3cc38bd17e9bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\69bdfc4573a1ce4fadd3cc38bd17e9bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\eba4bd47f367c47bb1d60e36e9a96775\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\eba4bd47f367c47bb1d60e36e9a96775\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\dfc5d2decb8a2257ca95a47b066a7c3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\dfc5d2decb8a2257ca95a47b066a7c3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\26236f80b6586969424a8175e018df65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\26236f80b6586969424a8175e018df65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\3773fa956c6dc0db493e566193f3659a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\3773fa956c6dc0db493e566193f3659a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\fdc4d461ca8e2a8d83eb977301c0c7ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\fdc4d461ca8e2a8d83eb977301c0c7ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\8ef3d5548ff099fe5d816189b2c9d361\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\8ef3d5548ff099fe5d816189b2c9d361\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\f65350ec79bedf7dbad9a0d97d1e9e06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\f65350ec79bedf7dbad9a0d97d1e9e06\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\ab91113f080991d1efaf4a225ee73c31\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Jeffrey\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\ab91113f080991d1efaf4a225ee73c31\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jeffrey\AndroidStudioProjects\BasicGestureDetect\Application\src\main\AndroidManifest.xml
