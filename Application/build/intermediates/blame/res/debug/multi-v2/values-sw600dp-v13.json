@@ -1,29 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\jeffc\\AndroidStudioProjects\\TinyKeyboard\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "C:\\Users\\aadit\\AndroidStudioProjects\\TinyKeyboard1\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\jeffc\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\8aaf947e4bca7df6e122ba6f756f247d\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,115,185,256,328,386,444,550,614,677",
-                        "endLines": "2,3,4,5,6,7,8,9,10,14",
-                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
-                        "endOffsets": "110,180,251,323,381,439,545,609,672,854"
-                    },
-                    "to": {
-                        "startLines": "10,11,12,13,14,15,16,17,20,24",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "611,671,741,812,884,942,1000,1106,1306,1489",
-                        "endLines": "10,11,12,13,14,15,16,17,20,27",
-                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
-                        "endOffsets": "666,736,807,879,937,995,1101,1165,1364,1666"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\jeffc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56c7bd8e3fcd75db66202a44d54a063b\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\aadit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\a35254e1f0d17134ec956303f1cf9f80\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -33,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\jeffc\\AndroidStudioProjects\\TinyKeyboard\\Application\\src\\main\\res\\values-sw600dp\\template-styles.xml",
+                    "source": "C:\\Users\\aadit\\AndroidStudioProjects\\TinyKeyboard1\\Application\\src\\main\\res\\values-sw600dp\\template-styles.xml",
                     "from": {
                         "startLines": "27,18",
                         "startColumns": "4,4",
@@ -52,7 +33,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\jeffc\\AndroidStudioProjects\\TinyKeyboard\\Application\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
+                    "source": "C:\\Users\\aadit\\AndroidStudioProjects\\TinyKeyboard1\\Application\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
                     "from": {
                         "startLines": "20,21",
                         "startColumns": "4,4",
@@ -66,6 +47,25 @@
                         "startOffsets": "1170,1238",
                         "endColumns": "67,67",
                         "endOffsets": "1233,1301"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\aadit\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\256aed8788712f91cf8ed972890dd741\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,185,256,328,386,444,550,614,677",
+                        "endLines": "2,3,4,5,6,7,8,9,10,14",
+                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
+                        "endOffsets": "110,180,251,323,381,439,545,609,672,854"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15,16,17,20,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "611,671,741,812,884,942,1000,1106,1306,1489",
+                        "endLines": "10,11,12,13,14,15,16,17,20,27",
+                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
+                        "endOffsets": "666,736,807,879,937,995,1101,1165,1364,1666"
                     }
                 }
             ]

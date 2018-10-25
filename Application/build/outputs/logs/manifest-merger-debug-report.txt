@@ -1,111 +1,111 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml:20:1-43:12
-INJECTED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml:20:1-43:12
-INJECTED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml:20:1-43:12
-MERGED from [com.android.support:support-v13:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\70092e28d5f6c6b6f80eddd07ab90e0d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:design:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\8aaf947e4bca7df6e122ba6f756f247d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\21e75e3e3d89c01a99619474775e7bf8\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\88fe99a1a662e4baf312fb342bca2964\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\56c7bd8e3fcd75db66202a44d54a063b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ab5b0143915847b201c3a863c4a0c63e\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\227abd4947c9c2fc8b13927c306fadc4\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\0f8f577491e6fd5ab3541505e9163cda\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\b6abfe8f382a5b988d52b1e28902acbb\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\292d0db41587c94defde4b8625a7b314\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\fe957df2a7d03984ddbfba10c4d5401d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\eb0ec2841806e8eea6cf7dfe8e53dfa4\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\f181e0f29715153f569189b4139a415d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\8bf3f25d5bc20defc0f89406e64bc486\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\411bf135ab63f2e355419c9b7c9ddfdd\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\46ab733c2295eae27194d289992e7b22\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml:20:1-43:12
-INJECTED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml:20:1-43:12
+ADDED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml:20:1-43:12
+INJECTED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml:20:1-43:12
+INJECTED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml:20:1-43:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\224adf458cd9d32793832a6e47a5094d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\256aed8788712f91cf8ed972890dd741\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\604473749e350cd28ea5c3c33bae3b1c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\5fb1d11bb1d34a408b7399d11d5d0642\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\a35254e1f0d17134ec956303f1cf9f80\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1436d0fbfd78fc3e69d6b10a12c92872\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\a4b80c81ee4d3f2cb29c5e3d3bb82f60\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\90b6e3296d193b37cd192040ed6e9d0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\e10cbb93d25f980c3a7ab2655616c717\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\5661f45ea46ac06f58e7122003d31be1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\381acb835a30cc03afb3f8c68e4bc42e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\616d6c27654b4cb1a0914ef3084f1808\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\73d8ea51d66beb87f3b49db4ce22c432\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\4e90bf72b1057601c26b5e0f402a427d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\f2192bb1078bbd812a2b32ac29200c65\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\8e30b92a24a0968360f87e17aab525fd\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml:20:1-43:12
+INJECTED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml:20:1-43:12
 	package
-		ADDED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml:21:5-53
+		ADDED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml:21:5-53
 	android:versionName
-		ADDED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml:23:5-30
-		INJECTED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml:23:5-30
+		INJECTED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml:20:11-69
+		ADDED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml:20:11-69
 	android:versionCode
-		ADDED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml:22:5-28
-		INJECTED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml:22:5-28
+		INJECTED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml:27:5-40:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ab5b0143915847b201c3a863c4a0c63e\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ab5b0143915847b201c3a863c4a0c63e\AndroidManifest.xml:9:5-20
+ADDED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml:27:5-40:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1436d0fbfd78fc3e69d6b10a12c92872\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1436d0fbfd78fc3e69d6b10a12c92872\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml:28:9-41
+		ADDED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml:28:9-41
 	android:icon
-		ADDED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml:29:9-45
+		ADDED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml:29:9-45
 	android:allowBackup
-		ADDED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml:27:18-44
+		ADDED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml:27:18-44
 	android:theme
-		ADDED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml:30:9-40
+		ADDED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml:30:9-40
 activity#com.example.android.basicgesturedetect.MainActivity
-ADDED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml:32:9-39:20
+ADDED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml:32:9-39:20
 	android:label
-		ADDED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml:33:19-51
+		ADDED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml:33:19-51
 	android:uiOptions
-		ADDED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml:34:19-63
+		ADDED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml:34:19-63
 	android:name
-		ADDED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml:32:19-47
+		ADDED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml:32:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml:35:13-38:29
+ADDED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml:35:13-38:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml:36:17-69
+ADDED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml:36:17-69
 	android:name
-		ADDED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml:36:25-66
+		ADDED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml:36:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml:37:17-77
+ADDED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml:37:17-77
 	android:name
-		ADDED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml:37:27-74
+		ADDED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml:37:27-74
 uses-sdk
-INJECTED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml
-INJECTED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml
-MERGED from [com.android.support:support-v13:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\70092e28d5f6c6b6f80eddd07ab90e0d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v13:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\70092e28d5f6c6b6f80eddd07ab90e0d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\8aaf947e4bca7df6e122ba6f756f247d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\8aaf947e4bca7df6e122ba6f756f247d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\21e75e3e3d89c01a99619474775e7bf8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\21e75e3e3d89c01a99619474775e7bf8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\88fe99a1a662e4baf312fb342bca2964\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\88fe99a1a662e4baf312fb342bca2964\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\56c7bd8e3fcd75db66202a44d54a063b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\56c7bd8e3fcd75db66202a44d54a063b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ab5b0143915847b201c3a863c4a0c63e\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ab5b0143915847b201c3a863c4a0c63e\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\227abd4947c9c2fc8b13927c306fadc4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\227abd4947c9c2fc8b13927c306fadc4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\0f8f577491e6fd5ab3541505e9163cda\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\0f8f577491e6fd5ab3541505e9163cda\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\b6abfe8f382a5b988d52b1e28902acbb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\b6abfe8f382a5b988d52b1e28902acbb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\292d0db41587c94defde4b8625a7b314\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\292d0db41587c94defde4b8625a7b314\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\fe957df2a7d03984ddbfba10c4d5401d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\fe957df2a7d03984ddbfba10c4d5401d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\eb0ec2841806e8eea6cf7dfe8e53dfa4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\eb0ec2841806e8eea6cf7dfe8e53dfa4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\f181e0f29715153f569189b4139a415d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\f181e0f29715153f569189b4139a415d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\8bf3f25d5bc20defc0f89406e64bc486\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\8bf3f25d5bc20defc0f89406e64bc486\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\411bf135ab63f2e355419c9b7c9ddfdd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\411bf135ab63f2e355419c9b7c9ddfdd\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\46ab733c2295eae27194d289992e7b22\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\jeffc\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\46ab733c2295eae27194d289992e7b22\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml
-INJECTED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\224adf458cd9d32793832a6e47a5094d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\224adf458cd9d32793832a6e47a5094d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\256aed8788712f91cf8ed972890dd741\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\256aed8788712f91cf8ed972890dd741\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\604473749e350cd28ea5c3c33bae3b1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\604473749e350cd28ea5c3c33bae3b1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\5fb1d11bb1d34a408b7399d11d5d0642\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\5fb1d11bb1d34a408b7399d11d5d0642\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\a35254e1f0d17134ec956303f1cf9f80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\a35254e1f0d17134ec956303f1cf9f80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1436d0fbfd78fc3e69d6b10a12c92872\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1436d0fbfd78fc3e69d6b10a12c92872\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\a4b80c81ee4d3f2cb29c5e3d3bb82f60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\a4b80c81ee4d3f2cb29c5e3d3bb82f60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\90b6e3296d193b37cd192040ed6e9d0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\90b6e3296d193b37cd192040ed6e9d0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\e10cbb93d25f980c3a7ab2655616c717\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\e10cbb93d25f980c3a7ab2655616c717\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\5661f45ea46ac06f58e7122003d31be1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\5661f45ea46ac06f58e7122003d31be1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\381acb835a30cc03afb3f8c68e4bc42e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\381acb835a30cc03afb3f8c68e4bc42e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\616d6c27654b4cb1a0914ef3084f1808\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\616d6c27654b4cb1a0914ef3084f1808\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\73d8ea51d66beb87f3b49db4ce22c432\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\73d8ea51d66beb87f3b49db4ce22c432\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\4e90bf72b1057601c26b5e0f402a427d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\4e90bf72b1057601c26b5e0f402a427d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\f2192bb1078bbd812a2b32ac29200c65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\f2192bb1078bbd812a2b32ac29200c65\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\8e30b92a24a0968360f87e17aab525fd\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\aadit\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\8e30b92a24a0968360f87e17aab525fd\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\jeffc\AndroidStudioProjects\TinyKeyboard\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aadit\AndroidStudioProjects\TinyKeyboard1\Application\src\main\AndroidManifest.xml
