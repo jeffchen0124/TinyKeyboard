@@ -73,8 +73,8 @@ public class BasicGestureDetectFragment extends Fragment{
             boolean multitouch = false;
             int n=0;
 
-            float distanceThreshold = 10;
-            int angleThreshold = 20;
+            float distanceThreshold = 20;
+            int angleThreshold = 15;
 
             double angle1=0;
             double angle2=0;
@@ -112,7 +112,7 @@ public class BasicGestureDetectFragment extends Fragment{
                         Log.i(TAG,"Angle 2 :" + String.valueOf(getAngle(startX, startY, lastX, lastY)));
 
                         if (multitouch) {
-                            if (Math.hypot((double)(lastX-startX),(double)(lastY-startY))>=distanceThreshold) {
+                            if (Math.hypot((double)(lastX-startX),(double)(lastY-startY))>=280) {
 
                                 if (lastX-startX > 0) {
                                     //Output 'space'
