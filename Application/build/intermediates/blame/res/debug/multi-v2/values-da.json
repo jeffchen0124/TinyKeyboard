@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Jeffrey\\AndroidStudioProjects\\BasicGestureDetect\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-da\\values-da.xml",
+            "outputFile": "C:\\Users\\jeffc\\AndroidStudioProjects\\TinyKeyboard\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-da\\values-da.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Jeffrey\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\90973e7297f60db81286368fae783322\\res\\values-da\\values-da.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,208,307,419,502,602,715,792,869,948,1057,1165,1261,1375,1477,1578,1731,1828",
-                        "endColumns": "102,98,111,82,99,112,76,76,78,108,107,95,113,101,100,152,96,78",
-                        "endOffsets": "203,302,414,497,597,710,787,864,943,1052,1160,1256,1370,1472,1573,1726,1823,1902"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Jeffrey\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\f65350ec79bedf7dbad9a0d97d1e9e06\\res\\values-da\\values-da.xml",
+                    "source": "C:\\Users\\jeffc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\411bf135ab63f2e355419c9b7c9ddfdd\\res\\values-da\\values-da.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "1907",
                         "endColumns": "100",
                         "endOffsets": "2003"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jeffc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56c7bd8e3fcd75db66202a44d54a063b\\res\\values-da\\values-da.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,307,419,502,602,715,792,869,948,1057,1165,1261,1375,1477,1578,1731,1828",
+                        "endColumns": "102,98,111,82,99,112,76,76,78,108,107,95,113,101,100,152,96,78",
+                        "endOffsets": "203,302,414,497,597,710,787,864,943,1052,1160,1256,1370,1472,1573,1726,1823,1902"
                     }
                 }
             ]

@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Application/Application.iml" filepath="$PROJECT_DIR$/Application/Application.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BasicGestureDetect.iml" filepath="$PROJECT_DIR$/BasicGestureDetect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TinyKeyboard.iml" filepath="$PROJECT_DIR$/TinyKeyboard.iml" />
     </modules>
   </component>
 </project>

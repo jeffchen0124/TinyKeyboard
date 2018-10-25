@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Jeffrey\\AndroidStudioProjects\\BasicGestureDetect\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "C:\\Users\\jeffc\\AndroidStudioProjects\\TinyKeyboard\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Jeffrey\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\90973e7297f60db81286368fae783322\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\jeffc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\56c7bd8e3fcd75db66202a44d54a063b\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Jeffrey\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\b1a433036e6f175b9699d91e51954f78\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\jeffc\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\8aaf947e4bca7df6e122ba6f756f247d\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
