@@ -1,3 +1,5 @@
+Used basic android app sample built into Android Studio just to get started but overhauled pretty much everything.
+
 
 Android BasicGestureDetect Sample
 ===================================
